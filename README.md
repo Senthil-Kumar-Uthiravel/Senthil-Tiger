@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Senthil-Tiger
+- 👋 Hi, I’m @Senthil Kumar
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science
